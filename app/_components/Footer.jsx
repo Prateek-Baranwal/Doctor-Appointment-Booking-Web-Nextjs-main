@@ -12,6 +12,7 @@ function Footer() {
      />
   
       <p className="mx-auto mt-6 max-w-md text-center leading-relaxed text-gray-500">
+        <p>Application Developed By Prateek Baranwal</p>
       "Empowering healthcare for a better tomorrow. Join us
        in revolutionizing Medicare services for everyone."
       </p>
